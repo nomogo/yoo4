@@ -143,10 +143,7 @@ header#list .lag{
     
 
     main#main {
-        flex-direction: column; /* Disposition verticale */
-        gap: 20px; /* Ajouter un espace entre les éléments */
-        position:relative;
-        top: 250px;
+       padding:1rem 0;
     }
 
     
