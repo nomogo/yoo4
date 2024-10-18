@@ -168,8 +168,7 @@ header#list .lag{
         top:700px /* La liste des liens doit être affichée en premier */
     }
     header#reg{
-        position: relative;
-        top:1900px;
+       
 
     }
     th, td {
