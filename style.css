@@ -151,7 +151,7 @@ header#list .lag{
     header#header .logo {
         height: 50px;
         position: absolute;
-        top: 17px;
+        top: 9px;
         left: 10px;
     }
    
@@ -164,8 +164,7 @@ header#list .lag{
     }
 
     header#list {
-        position: absolute;
-        top:700px /* La liste des liens doit être affichée en premier */
+        
     }
     header#reg{
        
